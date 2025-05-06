@@ -3,6 +3,10 @@
  * Visual styles for form components.
  */
 
+form {
+  background-color: aqua;
+}
+
 form .field-multiple-table {
   margin: 0;
 }
